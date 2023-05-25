@@ -1,0 +1,10 @@
+{
+  "name": "discourse-material-design-icons-outlined",
+  "description": "Material Design outlined icons for Discourse",
+  "about_url": null,
+  "license_url": null,
+  "component": true,
+  "assets": {
+    "icons-sprite": "/assets/icons-sprite.svg"
+  }
+}
