@@ -195,7 +195,10 @@ function initIcons(api) {
   api.replaceIcon("notification.replied", "mdo-reply");
   api.replaceIcon("notification.topic_reminder", "mdo-schedule");
   api.replaceIcon("notification.votes_released", "mdo-add");
-  api.replaceIcon("notification.watching_category_or_tag", "mdo-notification_important");
+  api.replaceIcon(
+    "notification.watching_category_or_tag",
+    "mdo-notification_important"
+  );
   api.replaceIcon("notification.watching_first_post", "mdo-notifications");
   api.replaceIcon("paint-brush", "mdo-brush");
   api.replaceIcon("paper-plane", "mdo-send");
@@ -275,4 +278,3 @@ export default {
     withPluginApi("0.10.1", initIcons);
   },
 };
-
