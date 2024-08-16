@@ -75,7 +75,7 @@ function initIcons(api) {
   api.replaceIcon("d-regular", "mdo-notifications_none");
   api.replaceIcon("d-topic-share", "mdo-link");
   api.replaceIcon("d-tracking", "mdo-notifications");
-  api.replaceIcon("d-unliked", "mdo-favorite_border");
+  api.replaceIcon("d-unliked", "mdo-favorite");
   api.replaceIcon("d-watching-first", "mdo-notifications");
   api.replaceIcon("d-watching", "mdo-notification_important");
   api.replaceIcon("desktop", "mdo-computer");
@@ -262,6 +262,7 @@ function initIcons(api) {
   api.replaceIcon("upload", "mdo-file_upload");
   api.replaceIcon("user-cog", "mdo-manage_accounts");
   api.replaceIcon("user-edit", "mdo-manage_accounts");
+  api.replaceIcon("user_menu.replies", "mdo-reply");
   api.replaceIcon("user-friends", "mdo-people");
   api.replaceIcon("user-plus", "mdo-person_add");
   api.replaceIcon("user-secret", "mdo-person_off");
