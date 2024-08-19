@@ -221,7 +221,7 @@ function initIcons(api) {
   api.replaceIcon("save", "mdo-save");
   api.replaceIcon("search", "mdo-search");
   api.replaceIcon("share-alt", "mdo-share");
-  api.replaceIcon("share", "mdo-share");
+  api.replaceIcon("share", "mdo-reply-alt");
   api.replaceIcon("shield-alt", "mdo-security");
   api.replaceIcon("shield", "mdo-shield");
   api.replaceIcon("sign-in-alt", "mdo-login");
