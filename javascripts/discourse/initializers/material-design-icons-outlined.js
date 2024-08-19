@@ -115,7 +115,7 @@ function initIcons(api) {
   api.replaceIcon("far-eye", "mdo-visibility");
   api.replaceIcon("far-file-alt", "mdo-description");
   api.replaceIcon("far-frown", "mdo-sentiment_dissatisfied");
-  api.replaceIcon("far-heart", "mdo-favorite_border");
+  api.replaceIcon("far-heart", "mdo-favorite");
   api.replaceIcon("far-image", "mdo-image");
   api.replaceIcon("far-list-alt", "mdo-list_alt");
   api.replaceIcon("far-meh", "mdo-sentiment_neutral");
