@@ -274,6 +274,6 @@ function initIcons(api) {
 export default {
   name: "material-design-icons-filled",
   initialize() {
-    withPluginApi("0.10.1", initIcons);
+    withPluginApi(initIcons);
   },
 };
