@@ -271,6 +271,23 @@ function initIcons(api) {
   api.replaceIcon("user", "mdo-person");
   api.replaceIcon("users", "mdo-group");
   api.replaceIcon("wrench", "mdo-build");
+  api.replaceIcon("robot", "mdo-robot");
+  api.replaceIcon("calendar-day", "mdo-calendar_today");
+  api.replaceIcon("flask", "mdo-experiment");
+  api.replaceIcon("circle-user", "mdo-account_circle");
+  api.replaceIcon("eye", "mdo-visibility");
+  api.replaceIcon("discourse-text", "mdo-text_fields");
+  api.replaceIcon("language", "mdo-translate");
+  api.replaceIcon("discourse-sparkles", "mdo-stars_2");
+  api.replaceIcon("gift", "mdo-gift");
+  api.replaceIcon("screwdriver-wrench", "mdo-handyman");
+  api.replaceIcon("font", "mdo-text_format");
+  api.replaceIcon("palette", "mdo-palette");
+  api.replaceIcon("discourse-table", "mdo-table");
+  api.replaceIcon("diagram-project", "mdo-account_tree");
+  api.replaceIcon("sign-hanging", "mdo-signpost");
+  api.replaceIcon("trophy", "mdo-trophy");
+  api.replaceIcon("check-to-slot", "mdo-how_to_vote");
 }
 
 export default {
